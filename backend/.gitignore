@@ -1,0 +1,62 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+
+# IDE settings
+.idea/
+
+# Logs
+*.log
+
+# Local configuration file
+instance/config.py
+
+# Database files
+*.sqlite
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Environment variables
+.env
+
+# Static files collected by Django (if using Django)
+/static/
+
+# Media files (user-uploaded content)
+/media/
+
+# Temporary files
+*.tmp
+
+# Backup files
+*.bak
+
+# Compiled Python files
+*.pyc
+
+# PyCharm files
+*.iml
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pytest cache
+.pytest_cache/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+*.cover
